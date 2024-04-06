@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "161776174529",
+    "project_id": "major-lms",
+    "storage_bucket": "major-lms.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161776174529:android:d8d5597acd8c9eea425b40",
+        "android_client_info": {
+          "package_name": "com.example.lms"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTQL0vO_wBBgBX71w9byPCEsbb7h30JTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
